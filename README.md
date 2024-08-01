@@ -32,12 +32,16 @@ train.csv: This CSV file contains the dataset used for training the machine lear
 
 The notebook includes the following steps:
 
-# 1-Data Exploration: Understanding the dataset through various visualizations and statistical analysis.
-# 2-Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
-# 3-Model Training: Training  machine learning models:
-# Logistic Regression: A linear model used for binary classification problems.
+## 1-Data Exploration: 
+Understanding the dataset through various visualizations and statistical analysis.
+## 2-Data Preprocessing: 
+Handling missing values, encoding categorical variables, and feature scaling.
+## 3-Model Training:
+Training  machine learning models:
+ Logistic Regression: A linear model used for binary classification problems.
 
-# 4-Model Evaluation: Evaluating the performance of the models using metrics like accuracy
+# 4-Model Evaluation: 
+Evaluating the performance of the models using metrics like accuracy
 
 ## Results:
 The results of the model evaluations are documented in the notebook, where the best-performing model is selected based on its accuracy and other evaluation metrics.
